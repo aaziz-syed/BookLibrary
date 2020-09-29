@@ -1,1 +1,3 @@
 chicago fire department
+Verifying Git Merge Functionality
+
